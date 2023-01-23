@@ -1,0 +1,13 @@
+{
+"name":"Ramesh",
+"email":"Ramesh@gmail.com",
+"PhoneNo":7993964845,
+"Prize":15.65,
+"Payment": true,
+"address":{
+"streenName":"sakti nagar",
+"district":"chennai",
+"state":"TN"
+}
+
+}
