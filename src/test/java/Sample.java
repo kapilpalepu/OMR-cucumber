@@ -34,6 +34,10 @@ public class Sample {
 		String string2 = object3.toString();
 		System.out.println(string2);
 		
+		System.out.println("TamilNadu");
+		System.out.println("Telangana");
+		System.out.println("Kerala");
+		
 	}
 
 }
